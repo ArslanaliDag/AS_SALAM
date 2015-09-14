@@ -23,8 +23,8 @@
         android:hint="Введите логин"
         android:textColor="#FFFFFF"
         android:focusable="true"
-        android:textColorHighlight="#42000000"
-        android:textColorHint="#42000000"
+        android:textColorHighlight="#ffffff"
+        android:textColorHint="#ffffff"
         android:layout_marginTop="25dp"
         android:layout_below="@+id/imageView"
         android:layout_alignParentLeft="true"
@@ -53,18 +53,19 @@
         android:layout_alignParentStart="true"
         android:layout_alignRight="@+id/eTUser"
         android:layout_alignEnd="@+id/eTUser"
-        android:textColorHighlight="#42000000"
-        android:textColorHint="#42000000"
+        android:textColorHighlight="#ffffff"
+        android:textColorHint="#ffffff"
         android:hint="Введите пароль"
         android:layout_marginTop="10dp" />
 
     <Button
-        android:layout_width="150dp"
+        android:layout_width="155dp"
         android:layout_height="45dp"
         android:text="Войти"
         android:id="@+id/btnLogon"
         android:layout_below="@+id/eTPassword"
         android:layout_centerHorizontal="true"
+        android:textColor="#F17A7B"
         android:textSize="17sp"
 
         android:layout_marginTop="10dp"
