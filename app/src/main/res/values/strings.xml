@@ -4,4 +4,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_user_interface">UserInterface</string>
+    <string name="title_activity_tab_events">TabEvents</string>
+    <string name="title_activity_tab_delivered">TabDelivered</string>
+    <string name="title_activity_tab_no_delivered">TabNoDelivered</string>
 </resources>
